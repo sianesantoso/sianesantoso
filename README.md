@@ -1,8 +1,8 @@
 # Hi, I'm Siane Santoso 👋
 
-🎓 Bachelor's Degree in Elementary Education /n
-💻 Aspiring Software Developer & Data Analyst /n
-🌏 Chinese Tutor | Coding Instructor | Technology Enthusiast /n
+🎓 Bachelor's Degree in Elementary Education<br>
+💻 Aspiring Software Developer & Data Analyst<br>
+🌏 Chinese Tutor | Coding Instructor | Technology Enthusiast
 
 ## About Me
 
