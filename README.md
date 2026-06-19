@@ -64,14 +64,14 @@ A local retail cashier web designed to streamline sales transactions, inventory 
 
 ## Certifications
 
-*Associate Data Scientist – Badan Nasional Sertifikasi Profesi (BNSP) & Lembaga Sertifikasi Profesi Universitas Dian Nuswantoro
-*Bootcamp Data Analyst with SQL and Python in Google Platform (Batch 16) – DQLab
-*Bootcamp Machine Learning and AI for Beginner (Batch 16) – DQLab
-*Python Programing - Wahana Computer Training
-*HSK Level 2 & Level 3
-*HSKK Speaking Test (Intermediate) & Conversation 1A – Lembaga Kursus dan Pelatihan Xinyou
-*English Proficiency Assessment – Center for Foreign Language Training
-*TBE GE & Conversation – Exclusive E-Learning
+* Associate Data Scientist – Badan Nasional Sertifikasi Profesi (BNSP) & Lembaga Sertifikasi Profesi Universitas Dian Nuswantoro
+* Bootcamp Data Analyst with SQL and Python in Google Platform (Batch 16) – DQLab
+* Bootcamp Machine Learning and AI for Beginner (Batch 16) – DQLab
+* Python Programing - Wahana Computer Training
+* HSK Level 2 & Level 3
+* HSKK Speaking Test (Intermediate) & Conversation 1A – Lembaga Kursus dan Pelatihan Xinyou
+* English Proficiency Assessment – Center for Foreign Language Training
+* TBE GE & Conversation – Exclusive E-Learning
 
 
 ## Connect With Me
